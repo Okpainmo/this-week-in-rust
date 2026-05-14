@@ -15,3 +15,7 @@ publishing/output*
 publishing/juice
 
 draft/cft_rfc_fcp_draft_template.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
